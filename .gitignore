@@ -1,3 +1,4 @@
 extra.txt	
 *.dll          
-/abc	
+/abc/extra1.txt	
+/bcd/	
